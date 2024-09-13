@@ -9,7 +9,8 @@ expandir meu conhecimento e aprimorar minhas habilidades como desenvolvedor. Al�
 intrigantes, comparando-as a montar um "lego". Também continuo a trabalhar com linguagens mais robustas, como Java, que aprecio profundamente e utilizo para enfrentar desafios técnicos
 complexos.
 
-![Estastiticas dos comitis](https://github-readme-stats.vercel.app/api?username=emanuel672&show_icons=true&theme=merko)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=emanuel672&show_icons=true&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuel672&layout=donut)](https://github.com/emanuel672/github-readme-stats)
 
 <p align="center">
   <a href="https://skillicons.dev">
