@@ -64,7 +64,7 @@ complexos.
 - **Versionamento do Git**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gitlab,github,git" />
+    <img src="https://skillicons.dev/icons?i=gitlab,github,git,githubactions" />
   </a>
 </p>
 
