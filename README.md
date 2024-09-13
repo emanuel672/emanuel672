@@ -13,17 +13,10 @@ complexos.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=emanuel672\&rank_icon=github&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuel672&layout=donut)](https://github.com/emanuel672/github-readme-stats)
-<img align="right" alt="Emanuel" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAM/developer.gif" width="205" height="210">
+<img align="right" alt="Emanuel" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAM/developer.gif" width="200">
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ae,au,ai,ps,pr,autocad,aws,azure,c,cpp,css,html,js,php,wordpress,py,vscode,discord,dynamodb,eclipse,gcp,github,gmail,linkedin,linux,mysql," />
   </a>
 </p>
-
-##
-
-<div>
-  <a href=(mailto=daviessoares@gmail.com)><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  <a href=
-</div>
