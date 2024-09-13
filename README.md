@@ -17,10 +17,66 @@ complexos.
 
 # Meus Conhecimento e Experiencias em tecnologia
 
-**Sistemas Operacionais**
+- **Sistemas Operacionais**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,au,ai,ps,pr,autocad,aws,azure,c,cpp,css,html,js,php,wordpress,py,vscode,discord,dynamodb,eclipse,gcp,github,gmail,linkedin,linux,mysql," />
+    <img src="https://skillicons.dev/icons?i=windows,androidstudio,linux,apple" />
+  </a>
+</p>
+
+- **Serviços Cloud**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,vercel" />
+  </a>
+</p>
+
+- **Base de Dados**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,dynamodb,mongodb,mysql,sqlite,postgres" />
+  </a>
+</p>
+
+- **designer de imagens**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pr,ps,ai,au,ae" />
+  </a>
+</p>
+
+- **Projetos de Arquitetura**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=autocad,sketchup" />
+  </a>
+</p>
+
+- **Plugin pelo CMD**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=npm" />
+  </a>
+</p>
+
+- **Versionamento do Git**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gitlab,github,git" />
+  </a>
+</p>
+
+- **Linguagens de Front-End**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,html,php,phpstorm,py,react,wordpress" />
+  </a>
+</p>
+
+- **linguagens de Back-End**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,py,nodejs,js,java,cpp,c," />
   </a>
 </p>
 
