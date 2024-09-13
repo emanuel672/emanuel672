@@ -20,3 +20,5 @@ complexos.
     <img src="https://skillicons.dev/icons?i=ae,au,ai,ps,pr,autocad,aws,azure,c,cpp,css,html,js,php,wordpress,py,vscode,discord,dynamodb,eclipse,gcp,github,gmail,linkedin,linux,mysql," />
   </a>
 </p>
+
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:daviessoares@gmail.com)](mailto:daviessoares@gmail.com)
