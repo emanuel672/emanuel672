@@ -13,8 +13,11 @@ complexos.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=emanuel672\&rank_icon=github&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuel672&layout=donut)](https://github.com/emanuel672/github-readme-stats)
-<img align="right" alt="Emanuel" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAM/developer.gif" width="200">
+<img align="center" alt="Emanuel" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAM/developer.gif" width="200">
 
+# Meus Conhecimento e Experiencias em tecnologia
+
+**Sistemas Operacionais**
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ae,au,ai,ps,pr,autocad,aws,azure,c,cpp,css,html,js,php,wordpress,py,vscode,discord,dynamodb,eclipse,gcp,github,gmail,linkedin,linux,mysql," />
