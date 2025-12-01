@@ -13,8 +13,8 @@ complexos.
 
 # minhas estatisticas do Git
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=emanuel672\&rank_icon=github&theme=merko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuel672&layout=donut)](https://github.com/emanuel672/github-readme-stats)<br>
+![GitHub stats](https://github-readme-stats.zcy.dev/api?username=emanuel672&rank_icon=github&theme=merko)
+<br>
 <img alt="Emanuel" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAM/developer.gif" align="right" width="200">
 
 # Meus Conhecimento e Experiencias em tecnologia
