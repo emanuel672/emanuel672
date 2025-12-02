@@ -14,7 +14,6 @@ complexos.
 # minhas estatisticas do Git
 
 ![GitHub stats](https://github-readme-stats.zcy.dev/api?username=emanuel672&rank_icon=github&theme=merko)
-<br>
 <img alt="Emanuel" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAM/developer.gif" align="right" width="200">
 
 # Meus Conhecimento e Experiencias em tecnologia
